@@ -89,4 +89,4 @@ async def on_message(message):
         addBet = web.find_element_by_xpath('//*[@id="modalboxAddForm"]/div[7]/div[1]/input')
         addBet.click()
 
-client.run('ODYyMzk4OTE0NjU3NTE3NjQw.YOXxkw.RgWfMVcwaZhwczAvKOlr_8RUdAk')       
+
